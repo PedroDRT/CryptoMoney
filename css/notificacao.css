@@ -1,0 +1,63 @@
+.usuario{
+    background: #209cee;
+    margin: 3% 25% 3% 25%;
+    color: white;
+    border-radius: 10px;
+    height: 60px;
+    text-align: center;
+    padding: 1em 0 0 0;
+    font-weight: bold;
+}
+.email{
+    background: #F07369;
+    margin: 3% 25% 3% 25%;
+    color: white;
+    border-radius: 10px;
+    height: 110px;
+    text-align: center;
+    padding: 1.3em 0 0 0;
+    font-weight: bold;
+    text-decoration: none;
+}
+.cadastro{
+    background: #23d160;
+    margin: 3% 25% 3% 25%;
+    color: white;
+    border-radius: 10px;
+    height: 110px;
+    text-align: center;
+    padding: 1.3em 0 0 0;
+    font-weight: bold;
+    text-decoration: none;
+}
+.telefone{
+    background: #E0BB34;
+    margin: 3% 25% 3% 25%;
+    color: white;
+    border-radius: 10px;
+    height: 60px;
+    text-align: center;
+    padding: 1.2em 0 0 0;
+    font-weight: bold;
+}
+.login{
+    background: #F07369;
+    margin: 3% 25% 3% 25%;
+    color: white;
+    border-radius: 10px;
+    height: 60px;
+    text-align: center;
+    padding: 1.2em 0 0 0;
+    font-weight: bold;
+    text-decoration: none;
+}
+.teste{
+    background: #23d160;
+    margin: 3% 25% 3% 25%;
+    color: white;
+    border-radius: 10px;
+    height: 60px;
+    text-align: center;
+    padding: 1.2em 0 0 0;
+    font-weight: bold;
+}
